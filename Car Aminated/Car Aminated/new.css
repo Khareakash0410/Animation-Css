@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.c1{
+    display: block;
+    width: 10%;
+    margin: auto;
+}
+h3{
+text-align: center;
+}
+
+#id1{
+    border: 2px solid black;
+    width: 1200px;
+    margin: auto;
+}
+.class{
+    border: 2px solid black;
+    display: inline-block;
+    width: 33%;
+    margin: 3px 0px;
+    padding: 23px;
+  
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
